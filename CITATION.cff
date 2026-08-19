@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Wi-Fi 7 Simulation Framework for ns-3
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Đức Dũng
+    family-names: Hồ
+    email: ducdung.pk@gmail.com
+    affiliation: DTU
+    orcid: 'https://orcid.org/0009-0004-0058-6686'
+identifiers:
+  - type: doi
+    value: '10.5281/zenodo.[CONCEPT_ID]'
+repository-code: 'https://github.com/ducdungpk/MLO_Thesis'
+abstract: |-
+  abstract: |
+    This repository contains the complete source code and simulation framework 
+    developed for the master's thesis evaluating the performance of Wi-Fi 7 
+    (IEEE 802.11be) networks. The simulations are implemented using the ns-3 
+    network simulator and include various scenarios to assess key performance 
+    metrics including throughput, Packet Delivery Ratio (PDR), end-to-end delay, 
+    and jitter. The framework supports multiple experimental configurations 
+    with varying node density (10-100 nodes), mobility speed (5-25 m/s), 
+    traffic load (100-1000 Kbps), and SNR levels (5-30 dB). Additionally, 
+    the code includes Multi-Link Operation (MLO) capability testing and 
+    energy consumption analysis. Automated bash scripts enable batch execution 
+    of experiments across different parameter sweeps, while Python scripts 
+    provide data processing, statistical analysis, and visualization of results. 
+    This code is intended to support reproducibility and further research 
+    in next-generation wireless networks.
+keywords:
+  - Wi-Fi 7
+  - IEEE 802.11be
+  - ns-3
+  - MLO
+  - Network Simulation
+  - Performance Evaluation
+  - Throughput
+  - Wireless Networks
+  - Reproducibility
+  - Parameter Sweep
+license: MIT
+version: 1.0.0
+date-released: '2026-08-19'
