@@ -1,6 +1,6 @@
 # Wi-Fi 7 Simulation Framework for ns-3
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22023988.svg)](https://doi.org/10.5281/zenodo.22023988)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22023987.svg)](https://doi.org/10.5281/zenodo.22023987)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with ns-3](https://img.shields.io/badge/Made%20with-ns--3-0077B5)](https://www.nsnam.org/)
 
@@ -11,6 +11,13 @@
 Kho lưu trữ này chứa toàn bộ mã nguồn, kịch bản tự động hóa, và dữ liệu thô được sử dụng trong luận văn thạc sĩ:
 
 > **"Đánh giá hiệu năng cơ chế Multi-Link Operation trong mạng IEEE 802.11be bằng phương pháp mô phỏng"**
+
+### Phiên bản và DOI
+
+- Phiên bản hiện tại: `v1.1.0`
+- DOI tổng hợp của toàn bộ các phiên bản:
+  https://doi.org/10.5281/zenodo.22023987
+- DOI riêng của phiên bản `v1.1.0`: cập nhật sau khi Zenodo phát hành phiên bản mới.
 
 ###Mục tiêu nghiên cứu
 
@@ -139,14 +146,14 @@ Cột			Tên				       Đơn vị			Mô tả
 
 Trích dẫn
 bibtex
-@software{yourname_wifi7_2026,
-  author = {[Hồ Đức Dũng]},
+@software{ho_duc_dung_2026_wifi7,
+  author = {Hồ, Đức Dũng},
   title = {Wi-Fi 7 Simulation Framework for ns-3},
   year = {2026},
   publisher = {Zenodo},
-  version = {v1.0.0},
-  doi = {10.5281/zenodo.22023988},
-  url = {https://github.com/ducdung.pk/MLO_Thesis}
+  version = {v1.1.0},
+  doi = {10.5281/zenodo/22029883
+  url = {https://github.com/ducdungpk/MLO_Thesis}
 }
 
 Giấy phép
