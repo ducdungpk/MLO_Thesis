@@ -13,9 +13,6 @@ authors:
     email: ducdung.pk@gmail.com
     affiliation: DTU
     orcid: 'https://orcid.org/0009-0004-0058-6686'
-identifiers:
-  - type: doi
-    value: '10.5281/zenodo.22023988'
 repository-code: 'https://github.com/ducdungpk/MLO_Thesis'
 abstract: |-
   abstract: |
@@ -45,5 +42,5 @@ keywords:
   - Reproducibility
   - Parameter Sweep
 license: MIT
-version: 1.0.0
+version: 1.1.0
 date-released: '2026-08-20'
