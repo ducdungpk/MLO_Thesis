@@ -15,7 +15,7 @@ authors:
     orcid: 'https://orcid.org/0009-0004-0058-6686'
 identifiers:
   - type: doi
-    value: '10.5281/zenodo.[CONCEPT_ID]'
+    value: '10.5281/zenodo.22023988'
 repository-code: 'https://github.com/ducdungpk/MLO_Thesis'
 abstract: |-
   abstract: |
@@ -46,4 +46,4 @@ keywords:
   - Parameter Sweep
 license: MIT
 version: 1.0.0
-date-released: '2026-08-19'
+date-released: '2026-08-20'
