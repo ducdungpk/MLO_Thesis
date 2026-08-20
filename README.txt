@@ -1,6 +1,6 @@
 # Wi-Fi 7 Simulation Framework for ns-3
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22023988.svg)](https://doi.org/10.5281/zenodo.22023988)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with ns-3](https://img.shields.io/badge/Made%20with-ns--3-0077B5)](https://www.nsnam.org/)
 
@@ -76,12 +76,12 @@ wifi7-simulation-framework/
 
 ## Yêu cầu hệ thống
 
-| Phần mềm   	| Phiên bản | Ghi chú 									|
+| Phần mềm   	  | Phiên bản | Ghi chú 									                         |
 |---------------|-----------|-------------------------------------------|
-| ns-3 			| 3.46.1+  	| Cần module wifi, applications, internet 	|
-| g++ 			| 9.0+ 		| Trình biên dịch C++ 						|
-| Python		| 3.8+ 		| Cài pip packages 							|
-| Bash 			| 4.0+	 	| Linux/macOS/WSL 							|
+| ns-3 			      | 3.46.1+  	| Cần module wifi, applications, internet 	 |
+| g++ 			       | 9.0+ 		   | Trình biên dịch C++ 						                |
+| Python		      | 3.8+ 		   | Cài pip packages 							                  |
+| Bash 			      | 4.0+	 	   | Linux/macOS/WSL 							                   |
 
 ### Python packages:
 ```bash
@@ -126,16 +126,16 @@ python3 anova_test.py
 python3 generate_report.py
 
 Cấu trúc dữ liệu CSV
-Cột			Tên				Đơn vị			Mô tả
-1			Nodes			-				Số nút mạng
-2			Speed			m/s				Tốc độ di chuyển
-3			DataRate		Kbps			Tốc độ dữ liệu
-4			Throughput		Mbps			Thông lượng
-5			PDR				%				Tỷ lệ gói thành công
-6			Delay			ms				Độ trễ
-7			Jitter			ms				Biến thiên độ trễ
-8			SNR (opt)		dB				Tỷ lệ tín/nhiễu
-9			Energy (opt)	J				Năng lượng tiêu thụ
+Cột			Tên				       Đơn vị			Mô tả
+1			  Nodes			      -				    Số nút mạng
+2			  Speed			       m/s				 Tốc độ di chuyển
+3			  DataRate		     Kbps			 Tốc độ dữ liệu
+4			  Throughput		   Mbps			 Thông lượng
+5			  PDR				        %				   Tỷ lệ gói thành công
+6			  Delay			       ms				  Độ trễ
+7			  Jitter			      ms				  Biến thiên độ trễ
+8			  SNR (opt)		    dB				  Tỷ lệ tín/nhiễu
+9			  Energy (opt)	  J				   Năng lượng tiêu thụ
 
 Trích dẫn
 bibtex
@@ -145,7 +145,7 @@ bibtex
   year = {2026},
   publisher = {Zenodo},
   version = {v1.0.0},
-  doi = {10.5281/zenodo.XXXXXXXX},
+  doi = {10.5281/zenodo.22023988},
   url = {https://github.com/ducdung.pk/MLO_Thesis}
 }
 
