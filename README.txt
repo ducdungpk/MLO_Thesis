@@ -37,7 +37,7 @@ wifi7-simulation-framework/
 ├── data/ # 7 CSV files
 ├── LICENSE
 ├── CITATION.cff
-└── README.md
+└── README.txt
 
 ### Chi tiết:
 
