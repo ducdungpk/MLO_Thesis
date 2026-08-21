@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
   double nakagamiM = 1.0;
 
   uint32_t width = 20;
-  std::string mcs = "EhtMcs9";
+  std::string mcs = "EhtMcs7";
 
   CommandLine cmd(__FILE__);
 

@@ -221,7 +221,6 @@ int main (int argc, char *argv[])
       offeredTotal > 0 ?
       totalThr / offeredTotal : 0.0;
 
-  double fairness = 1.0;
 
   /* ================= JAIN FAIRNESS (tính trên từng STA) ================= */
 
