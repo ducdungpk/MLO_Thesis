@@ -17,7 +17,7 @@ version: 1.1.0
 date-released: '2026-08-20'
 identifiers:
   - type: doi
-    value: '10.5281/zenodo.22029883'
+    value: '10.5281/zenodo.22037398'
 repository-code: 'https://github.com/ducdungpk/MLO_Thesis'
 abstract: |-
   abstract: |
