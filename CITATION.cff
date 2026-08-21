@@ -1,51 +1,45 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: Wi-Fi 7 Simulation Framework for ns-3
 message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: dataset
+  If you use this software, please cite it using the metadata from this file.
+type: software
+
 authors:
-  - given-names: Đức Dũng
-    family-names: Hồ
+  - family-names: Hồ
+    given-names: Đức Dũng
     email: ducdung.pk@gmail.com
-    affiliation: DTU
-    orcid: 'https://orcid.org/0009-0004-0058-6686'
-version: 1.1.0
-date-released: '2026-08-20'
+    affiliation: Đại học Duy Tân
+    orcid: "https://orcid.org/0009-0004-0058-6686"
+
+version: 1.1.1
+date-released: "2026-08-21"
+
 identifiers:
   - type: doi
-    value: '10.5281/zenodo.22037398'
-repository-code: 'https://github.com/ducdungpk/MLO_Thesis'
-abstract: |-
-  abstract: |
-    This repository contains the complete source code and simulation framework 
-    developed for the master's thesis evaluating the performance of Wi-Fi 7 
-    (IEEE 802.11be) networks. The simulations are implemented using the ns-3 
-    network simulator and include various scenarios to assess key performance 
-    metrics including throughput, Packet Delivery Ratio (PDR), end-to-end delay, 
-    and jitter. The framework supports multiple experimental configurations 
-    with varying node density (10-100 nodes), mobility speed (5-25 m/s), 
-    traffic load (100-1000 Kbps), and SNR levels (5-30 dB). Additionally, 
-    the code includes Multi-Link Operation (MLO) capability testing and 
-    energy consumption analysis. Automated bash scripts enable batch execution 
-    of experiments across different parameter sweeps, while Python scripts 
-    provide data processing, statistical analysis, and visualization of results. 
-    This code is intended to support reproducibility and further research 
-    in next-generation wireless networks.
+    value: "10.5281/zenodo.22037398"
+
+repository-code: "https://github.com/ducdungpk/MLO_Thesis"
+
+abstract: >-
+  This repository contains the source code, automation scripts, data files,
+  and analysis scripts developed for a master's thesis evaluating the
+  performance of Wi-Fi 7 and Multi-Link Operation in IEEE 802.11be networks.
+  The simulation framework is implemented using ns-3 and includes single-link,
+  dual-link, multi-STA, multiband, traffic-steering, and robustness scenarios.
+  The experiments generate CSV data and performance analyses based on
+  throughput, delay, packet loss, jitter, and fairness metrics.
+  The repository is provided to support reproducibility and further research.
+
 keywords:
   - Wi-Fi 7
   - IEEE 802.11be
   - ns-3
+  - Multi-Link Operation
   - MLO
   - Network Simulation
-  - Performance Evaluation
   - Throughput
   - Wireless Networks
   - Reproducibility
   - Parameter Sweep
+
 license: MIT
-version: 1.1.0
-date-released: '2026-08-20'
