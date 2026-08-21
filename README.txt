@@ -152,7 +152,7 @@ bibtex
   title = {Wi-Fi 7 Simulation Framework for ns-3},
   year = {2026},
   publisher = {Zenodo},
-  version = {v1.1.0},
+  version = {v1.1.1},
   doi = {10.5281/zenodo.22037398},
   url = {https://github.com/ducdungpk/MLO_Thesis}
 }
