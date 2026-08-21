@@ -17,8 +17,8 @@ Kho lưu trữ này chứa toàn bộ mã nguồn, kịch bản tự động hó
 - Phiên bản hiện tại: `v1.1.0`
 - DOI tổng hợp của toàn bộ các phiên bản:
   https://doi.org/10.5281/zenodo.22023987
-- DOI riêng của phiên bản `v1.1.0`:
-  https://doi.org/10.5281/zenodo.22029883
+- DOI riêng của phiên bản `v1.1.1`:
+  https://doi.org/10.5281/zenodo.22037398
 
 ###Mục tiêu nghiên cứu
 
@@ -153,7 +153,7 @@ bibtex
   year = {2026},
   publisher = {Zenodo},
   version = {v1.1.0},
-  doi = {10.5281/zenodo.22029883},
+  doi = {10.5281/zenodo.22037398},
   url = {https://github.com/ducdungpk/MLO_Thesis}
 }
 
